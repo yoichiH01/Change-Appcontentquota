@@ -10,9 +10,9 @@ The script to change Qlik Sense Appcontentquota - maxFileSize and maxLibrarySize
   Default value is: maxFileSizev 524428900 [byte] maxLibrarySizev 209715300[byte]
  
  # Requirement
- Qlik Sesne Enterprise
+ Qlik Sesne Server
  
- # Instruction
+# Instruction
 1. Donwload QRS_increaseAppContentQuota.ps1 onto your machine
 2. Follow each bullets stated in ReadMe
 3. Open Windows Powershell and move to the folder where you saved QRS_increaseAppContentQuota.ps1 on Powershell Console
