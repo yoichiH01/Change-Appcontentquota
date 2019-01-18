@@ -5,7 +5,7 @@ The script to change Qlik Sense Appcontentquota - maxFileSize and maxLibrarySize
 - Sense Certificate must be imported into Windows Certificate store Current User > Personal in the machine where you run this script.
    Following public article may be useful on how to export/import certificate.
    https://qliksupport.force.com/articles/000005433
-- You may need to change FQDN in the script to fit your environment
+- You may need to change FQDN, UserDirectory and UserId in the script to fit your environment
 - You may need to set maxFileSizev and maxLibrarySizev in the script to the value which you want to change
   Default value is: maxFileSizev 524428900 [byte] maxLibrarySizev 209715300[byte]
  
