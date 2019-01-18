@@ -1,5 +1,5 @@
 # Change Appcontentquota
-The scripts to change Qlik Sense Appcontentquota - maxFileSize and maxLibrarySize utlizing QRS API
+The script to change Qlik Sense Appcontentquota - maxFileSize and maxLibrarySize
 # ReadMe
 - The machine from where you run this script must be reachable to the Qlik Sense, and necessary port needs to be opened such as 4242.
 - Sense Certificate must be imported into Windows Certificate store Current User > Personal in the machine where you run this script.
